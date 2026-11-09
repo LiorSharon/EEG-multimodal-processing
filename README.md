@@ -14,4 +14,4 @@ The primary objective of these assignments was to build, execute, and thoroughly
 ## Project Data
 
 The raw and processed EEG datasets required for running these pipelines are hosted externally on Google Drive. 
-please [click here]((https://drive.google.com/drive/folders/14hADNT64d8RZv6aL9j0tYf-SIAyqN0AT)).
+please [click here](https://drive.google.com/drive/folders/14hADNT64d8RZv6aL9j0tYf-SIAyqN0AT).
